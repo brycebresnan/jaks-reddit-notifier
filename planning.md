@@ -17,8 +17,13 @@
 * Keep track of historical data for making graphs and stuff (DATABASE maybe firebase)
 * Figure out how the F do deploy this sucker so Jak can actually use this. 
 
+* Store post to be launched by ratio trigger automatically
+
 ### App Structure Tree
 
-App.js
+App
+|- Header
+|- ThreadController
+  |- Thread
 
-
+IM IN - PJ
